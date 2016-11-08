@@ -1,2 +1,2 @@
 # express-generator
-express+jade+mongodb 项目框架
+express+jade+mongodb 项目框架生成器
