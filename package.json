@@ -1,0 +1,40 @@
+{
+  "name": "express-generator",
+  "version": "1.0.0",
+  "description": "express generator for web scaffold",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heriky/express-generator.git"
+  },
+  "keywords": [
+    "express",
+    "generator"
+  ],
+  "author": "hk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heriky/express-generator/issues"
+  },
+  "homepage": "https://github.com/heriky/express-generator#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "jade": "^1.11.0",
+    "moment": "^2.15.2",
+    "mongoose": "^4.6.6",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "morgan": "^1.7.0"
+  }
+}
