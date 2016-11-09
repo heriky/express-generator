@@ -31,3 +31,6 @@ express+jade+mongodb 项目框架生成器
 - routes.js  路由配置
 - app.js     程序入口
 - env.config.js 项目配置
+
+### 3.定制手脚架
+[Bee](https://github.com/heriky/Bee)
